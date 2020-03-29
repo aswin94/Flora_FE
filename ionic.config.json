@@ -1,0 +1,7 @@
+{
+  "name": "Flora_FE",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
